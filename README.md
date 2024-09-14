@@ -12,7 +12,7 @@
 ║ Proficient in HTML, CSS, Javascript, React,   ║
 ║ NextJS, Chakra UI, Node, Python               ║
 ║                                               ║
-║ Currently trying to write a Minecraft mod     ║
+║ Currently designing a website                 ║
 ╟───────────────────────────────────────────────╢
 ║ Contact me at rackodo.business@gmail.com      ║
 ╚═══════════════════════════════════════════════╝
