@@ -6,8 +6,8 @@
 ║ They/Them      │ Write more code. Repeat.     ║
 ║ 19 years old   │                              ║
 ╟────────────────┴──────────────────────────────╢
-║ Practicing frontend web developer based in    ║
-║ Sydney, Australia.                            ║
+║ Practicing developer based in Sydney,         ║
+║ Australia.                                    ║
 ║                                               ║
 ║ Proficient in HTML, CSS, Javascript, React,   ║
 ║ NextJS, Chakra UI, Node, Python               ║
