@@ -11,3 +11,5 @@
 ║ Contact me at rackodo.business@gmail.com     ║
 ╚══════════════════════════════════════════════╝
 ```
+
+**Current Project:** [RudeChat](https://github.com/ShrugShoulders/RudeChat), an IRC client written in Python.
