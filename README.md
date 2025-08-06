@@ -2,7 +2,7 @@
 ╔════════════════╤═════════════════════════════╗
 ║ rackodo@github │ - Unemployed                ║
 ╟────────────────┤ - Studying Programming      ║
-║ Racko          │ - Open to enquiries         ║
+║ Bash Elliott   │ - Open to enquiries         ║
 ║ They/Them      ├─────────────────────────────╢
 ║ 20 years old   │         rackodo.dev         ║
 ╟────────────────┴─────────────────────────────╢
