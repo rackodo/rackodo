@@ -12,4 +12,6 @@
 ╚══════════════════════════════════════════════╝
 ```
 
-**Current Project:** [RudeChat](https://github.com/ShrugShoulders/RudeChat), an IRC client written in Python.
+**Current Projects:** 
+- [RudeChat](https://github.com/ShrugShoulders/RudeChat), an IRC client written in Python.
+- [PyLayoutTools](https://github.com/rackodo/PyLayoutTools), a Python library for organising text.
