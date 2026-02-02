@@ -4,7 +4,7 @@
 ╟────────────────┤──────────────────────────║
 ║ Bash Elliott   │ - Unemployed             ║
 ║ They/Them      │ - Studying Programming   ║
-║ 20 years old   │ - Open to enquiries      ║
+║ 21 years old   │ - Open to enquiries      ║
 ╟────────────────┴──────────────────────────╢
 ║ I make code good :D                       ║
 ╟───────────────────────────────────────────╢
